@@ -1,17 +1,10 @@
 <h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src=".github/logo.png" width="200px" />
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
 <h3 align="center">
   Desafio 2: Gympoint, o início
 </h3>
-
-
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## :rocket: Sobre o desafio
 
